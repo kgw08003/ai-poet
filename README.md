@@ -13,4 +13,11 @@
 
 ![랭체이;ㄴ](https://github.com/kgw08003/ai-poet/assets/109195054/57b22f7f-64de-44e9-8dc4-41caac057768)
 
-### 전체 구조
+### 환경 세팅
+- OpenAi API Key 생성
+- LangChain
+- Playground 이용 ChatGPT 역할 부여
+
+  ### 수익화 설정
+  -Streamlit cloud 이용
+   
