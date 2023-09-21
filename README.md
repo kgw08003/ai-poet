@@ -11,3 +11,6 @@
 ### 기술 스택
 ![기술스택](https://github.com/kgw08003/ai-poet/assets/109195054/9d7ba0a7-ac6b-4ae1-bd17-fe4caabf9839)
 
+![랭체이;ㄴ](https://github.com/kgw08003/ai-poet/assets/109195054/57b22f7f-64de-44e9-8dc4-41caac057768)
+
+### 전체 구조
