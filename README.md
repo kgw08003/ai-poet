@@ -9,3 +9,5 @@
 ![인공지능시인](https://github.com/kgw08003/ai-poet/assets/109195054/4ab701a1-922e-4825-b855-f79b83062ad9)
 
 ### 기술 스택
+![기술스택](https://github.com/kgw08003/ai-poet/assets/109195054/9d7ba0a7-ac6b-4ae1-bd17-fe4caabf9839)
+
