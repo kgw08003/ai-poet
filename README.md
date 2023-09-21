@@ -17,8 +17,8 @@
 - OpenAi API Key 생성
 - LangChain
 - Playground 이용 ChatGPT 역할 부여
-
-  ### 수익화 설정
-  -Streamlit cloud 이용
+- 
+### 수익화 설정
+ - Streamlit cloud 이용
    
 ![수익화](https://github.com/kgw08003/ai-poet/assets/109195054/a26bbc01-acef-4437-8b73-a57821db51c9)
